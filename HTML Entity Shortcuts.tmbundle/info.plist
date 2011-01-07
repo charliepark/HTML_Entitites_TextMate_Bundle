@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>822209E0-59BF-4F20-8024-33FDA5E9BE6D</string>
+			<string>6820F6EC-7F79-49A3-9327-4FBD9E4DE05A</string>
+			<string>23AF76C4-6B42-4F32-AD57-A52C05F3083F</string>
+			<string>34EB4DF3-0B93-4B10-81F3-A9D672F8C77E</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>HTML Entity Shortcuts</string>
+	<key>ordering</key>
+	<array>
+		<string>822209E0-59BF-4F20-8024-33FDA5E9BE6D</string>
+		<string>6820F6EC-7F79-49A3-9327-4FBD9E4DE05A</string>
+		<string>23AF76C4-6B42-4F32-AD57-A52C05F3083F</string>
+		<string>34EB4DF3-0B93-4B10-81F3-A9D672F8C77E</string>
+	</array>
+	<key>uuid</key>
+	<string>4B895C3C-3DE8-41C9-9AF8-EC096E8CA370</string>
+</dict>
+</plist>
