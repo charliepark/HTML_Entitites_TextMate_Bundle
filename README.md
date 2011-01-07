@@ -12,4 +12,4 @@ To do the left-single-quote and the left-double-quote, just hit each key twice a
 
 ## How to get the bundle
 
-Just click on the "downloads" link above, and you should be able to download the bundle. Once it's on your desktop (or wherever), just double-click on the .tmbundle file, and the snippets should be automatically added to your TextMate bundles list.
+Just click here &mdash; (https://github.com/downloads/charliepark/HTML_Entitites_TextMate_Bundle/HTML%20Entity%20Shortcuts.tmbundle)[download the HTML Entities TextMate Bundle] &mdash; and the bundle should begin downloading immediately. Once it's on your desktop (or wherever), just double-click on the .tmbundle file, and the snippets should be automatically added to your TextMate bundles list.
